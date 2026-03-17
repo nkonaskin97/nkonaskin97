@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm nkonaskin97
+#  Hey there! I'm nkonaskin97
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Code+%7C+F1+%7C+CS2+%7C+Dark+Souls;Junior+Developer+from+Russia" alt="Typing SVG" />
@@ -6,9 +6,9 @@
 
 ---
 
-💻 **Code** · 🏎️ **F1** · 🎮 **CS2** · ⚔️ **Dark Souls**
+ **Code** ·  **F1** ·  **CS2** ·  **Dark Souls**
 
-🔧 **Tech Stack:**  
+ **Tech Stack:**  
 `Java` · `JavaScript` · `HTML/CSS` · `Python` · `Git`
 
 📫 **Connect with me:**  
