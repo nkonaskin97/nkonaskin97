@@ -34,13 +34,7 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="100%" align="center">
-      <img src="https://media4.giphy.com/media/iamIahPLWmo4tGiyDz/giphy.gif?cid=790b7611bw4m9jtsl1k7z1t73lnjkrpw6i7o1en13mhj3r8d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
-    </td>
-  </tr>
-</table>
+<img src="https://media4.giphy.com/media/iamIahPLWmo4tGiyDz/giphy.gif?cid=790b7611bw4m9jtsl1k7z1t73lnjkrpw6i7o1en13mhj3r8d&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
 
 ---
 
