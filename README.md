@@ -17,47 +17,31 @@
 
 ---
 
-## 🏎️ ФОРМУЛА-1
-
 <img src="https://i.gifer.com/4RBA.gif" width="100%" alt="Lewis Hamilton">
 
-<br>
-
-<img src="https://media1.giphy.com/media/HKfj7dT9wW0YX83FEA/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Max Verstappen">
-
 ---
-
-## 🎯 CS2
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>Donk</h3>
       <img src="https://media4.giphy.com/media/CyiXaCq4N3zEczULSH/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Donk">
     </td>
     <td width="50%" align="center">
-      <h3>S1mple</h3>
       <img src="https://media1.giphy.com/media/Mt1LHJkHdgjLvVwkaE/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="S1mple">
     </td>
   </tr>
 </table>
 
-<br>
-
 ---
 
-## ⚔️ DARK SOULS
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://media1.giphy.com/media/QIhOh6VX7Tx8qQcMek/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media2.giphy.com/media/alCWtgmqUzuso/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
-    </td>
-  </tr>
-</table>
+ <table>
+   <tr>
+     <td width="100%" align="center">
+        <img src="https://media2.giphy.com/media/alCWtgmqUzuso/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
+      </td>
+    </tr>
+  </table>
+  
 ---
 
 <p align="center">
