@@ -17,35 +17,18 @@
 
 ---
 
-## 🏎️ Формула-1
-
-### Льюис Хэмилтон
 <img src="https://i.gifer.com/4RBA.gif" width="100%" alt="Lewis Hamilton">
 
-### Max Verstappen
 <img src="https://media1.tenor.com/m/26539525zc/max-verstappen-formula1-dutch.gif" width="100%" alt="Max Verstappen">
 
----
-
-## 🎮 Киберспорт (CS2)
-
-### Donk (Team Spirit)
 <img src="https://media1.tenor.com/m/6170952261464396983zc/donk-donked-spirit-cs-cs2.gif" width="100%" alt="Donk">
 
-### S1mple
 <img src="https://media1.tenor.com/m/26633457zc/s1mpleee.gif" width="100%" alt="S1mple">
 
-### XD Meme
 <img src="https://media1.tenor.com/m/26033079zc/xd-meme.gif" width="100%" alt="XD Meme">
 
----
-
-## ⚔️ Dark Souls (настроение после деплоя)
-
-### Когда баг не находится 3 часа
 <img src="https://media1.tenor.com/m/10047053495593873096zc/skeleton-banging-fist-on-ground-agony.gif" width="100%" alt="Dark Souls Agony">
 
-### Когда прод упал в пятницу вечером
 <img src="https://media1.tenor.com/m/5507795813322566763zc/dark-souls-defeated-give-up.gif" width="100%" alt="Dark Souls Give Up">
 
 ---
