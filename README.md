@@ -17,23 +17,51 @@
 
 ---
 
-### 🏎️ F1
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="F1">
+## 🏎️ ФОРМУЛА-1
 
-### 🎯 CS2
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="CS2">
+<img src="https://i.gifer.com/4RBA.gif" width="100%" alt="Lewis Hamilton">
 
-### ⚔️ Dark Souls
-<img src="https://media.giphy.com/media/xT5LMFvK7lY6Gf5k6g/giphy.gif" width="100%" alt="Dark Souls">
+<br>
 
-### 🤖 AI Vibe
-<img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="100%" alt="AI">
+<img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="100%" alt="Max Verstappen">
 
-### 🌀 Cyberpunk
-<img src="https://media.giphy.com/media/l0MYEqEklMW6WpKla/giphy.gif" width="100%" alt="Cyberpunk">
+---
 
-### 🎮 Gaming
-<img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="100%" alt="Gaming">
+## 🎯 CS2
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Donk</h3>
+      <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="100%" alt="Donk">
+    </td>
+    <td width="50%" align="center">
+      <h3>S1mple</h3>
+      <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="100%" alt="S1mple">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="XD Meme">
+
+---
+
+## ⚔️ DARK SOULS
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Когда баг не находится 3 часа</h3>
+      <img src="https://media.giphy.com/media/xT5LMFvK7lY6Gf5k6g/giphy.gif" width="100%" alt="Dark Souls Agony">
+    </td>
+    <td width="50%" align="center">
+      <h3>Когда прод упал в пятницу вечером</h3>
+      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Dark Souls Give Up">
+    </td>
+  </tr>
+</table>
 
 ---
 
