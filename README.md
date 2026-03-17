@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/l0MYt5jH6gkTWm8qo/giphy.gif" width="100%" alt="Max Verstappen">
+<img src="https://media1.giphy.com/media/HKfj7dT9wW0YX83FEA/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Max Verstappen">
 
 ---
 
@@ -33,11 +33,11 @@
   <tr>
     <td width="50%" align="center">
       <h3>Donk</h3>
-      <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="100%" alt="Donk">
+      <img src="https://media4.giphy.com/media/CyiXaCq4N3zEczULSH/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Donk">
     </td>
     <td width="50%" align="center">
       <h3>S1mple</h3>
-      <img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="100%" alt="S1mple">
+      <img src="https://media1.giphy.com/media/Mt1LHJkHdgjLvVwkaE/giphy.gif?cid=790b7611jynp2wv65j8k68nt76xvw3ybrmau6l5u68g3r14r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="S1mple">
     </td>
   </tr>
 </table>
@@ -54,11 +54,11 @@
   <tr>
     <td width="50%" align="center">
       <h3>Когда баг не находится 3 часа</h3>
-      <img src="https://media.giphy.com/media/xT5LMFvK7lY6Gf5k6g/giphy.gif" width="100%" alt="Dark Souls Agony">
+      <img src="https://media1.giphy.com/media/QIhOh6VX7Tx8qQcMek/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls Agony">
     </td>
     <td width="50%" align="center">
       <h3>Когда прод упал в пятницу вечером</h3>
-      <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="Dark Souls Give Up">
+      <img src="https://media2.giphy.com/media/alCWtgmqUzuso/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls Give Up">
     </td>
   </tr>
 </table>
