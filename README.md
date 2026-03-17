@@ -44,8 +44,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="XD Meme">
-
 ---
 
 ## ⚔️ DARK SOULS
@@ -53,16 +51,13 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>Когда баг не находится 3 часа</h3>
-      <img src="https://media1.giphy.com/media/QIhOh6VX7Tx8qQcMek/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls Agony">
+      <img src="https://media1.giphy.com/media/QIhOh6VX7Tx8qQcMek/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
     </td>
     <td width="50%" align="center">
-      <h3>Когда прод упал в пятницу вечером</h3>
-      <img src="https://media2.giphy.com/media/alCWtgmqUzuso/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls Give Up">
+      <img src="https://media2.giphy.com/media/alCWtgmqUzuso/giphy.gif?cid=790b7611vs3qubmy07m57i7d7c6hwd13r6n3h0lqzw0oh8h0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Dark Souls">
     </td>
   </tr>
 </table>
-
 ---
 
 <p align="center">
