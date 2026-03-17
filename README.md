@@ -1,5 +1,5 @@
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); padding: 30px; border-radius: 20px; color: white;">
-
+<div style="background: linear-gradient(135deg, #4a00e0 0%, #8e2de2 30%, #ff6b6b 60%, #ffd93d 100%); padding: 40px 30px; border-radius: 30px; font-family: 'Segoe UI', Roboto, sans-serif; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); box-shadow: 0 20px 40px rgba(0,0,0,0.5); border: 3px solid rgba(255,255,255,0.3);">
+  
 #  Hey there! I'm nkonaskin97
 
 <p align="center">
@@ -48,4 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nkonaskin97&layout=compact&hide_border=true&theme=transparent)
 
 
-</div>
