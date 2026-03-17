@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm nkonaskin97
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Code+%7C+F1+%7C+CS2+%7C+Dark+Souls;Junior+Developer+from+Russia;Max+Verstappen+%26+Donk+fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Code+%7C+F1+%7C+CS2+%7C+Dark+Souls;Junior+Developer+from+Russia" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,19 +17,23 @@
 
 ---
 
-<img src="https://i.gifer.com/4RBA.gif" width="100%" alt="Lewis Hamilton">
+### 🏎️ F1
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100%" alt="F1">
 
-<img src="https://media1.tenor.com/m/26539525zc/max-verstappen-formula1-dutch.gif" width="100%" alt="Max Verstappen">
+### 🎯 CS2
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" alt="CS2">
 
-<img src="https://media1.tenor.com/m/6170952261464396983zc/donk-donked-spirit-cs-cs2.gif" width="100%" alt="Donk">
+### ⚔️ Dark Souls
+<img src="https://media.giphy.com/media/xT5LMFvK7lY6Gf5k6g/giphy.gif" width="100%" alt="Dark Souls">
 
-<img src="https://media1.tenor.com/m/26633457zc/s1mpleee.gif" width="100%" alt="S1mple">
+### 🤖 AI Vibe
+<img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" width="100%" alt="AI">
 
-<img src="https://media1.tenor.com/m/26033079zc/xd-meme.gif" width="100%" alt="XD Meme">
+### 🌀 Cyberpunk
+<img src="https://media.giphy.com/media/l0MYEqEklMW6WpKla/giphy.gif" width="100%" alt="Cyberpunk">
 
-<img src="https://media1.tenor.com/m/10047053495593873096zc/skeleton-banging-fist-on-ground-agony.gif" width="100%" alt="Dark Souls Agony">
-
-<img src="https://media1.tenor.com/m/5507795813322566763zc/dark-souls-defeated-give-up.gif" width="100%" alt="Dark Souls Give Up">
+### 🎮 Gaming
+<img src="https://media.giphy.com/media/l0HlOBZcl7sbV6LnO/giphy.gif" width="100%" alt="Gaming">
 
 ---
 
